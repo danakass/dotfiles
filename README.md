@@ -1,2 +1,2 @@
 # dotfiles
-test
+See commands for bash in BASH_COMMANDS.md
